@@ -1,0 +1,2 @@
+# VisualStudioFun
+Just a playground
